@@ -19,17 +19,18 @@ I'll provide daily updates about the progress in both the Google Document and Tr
 
 ## General Information
 
-Name: Marko Mudrinić
-E-mail: mudrinic.mare@gmail.com
-Website and Blog: https://xmudrii.com
-GitHub: [xmudrii](https://github.com/xmudrii)
-Slack (Kubernetes): xmudrii
-Twitter: [xmudrii](https://twitter.com/xmudrii)
-Time zone: UTC+02:00 (Central European Summer Time)
+Name: Marko Mudrinić  
+E-mail: mudrinic.mare@gmail.com  
+Website and Blog: https://xmudrii.com  
+GitHub: [xmudrii](https://github.com/xmudrii)  
+Slack (Kubernetes): xmudrii  
+Twitter: [xmudrii](https://twitter.com/xmudrii)  
+Time zone: UTC+02:00 (Central European Summer Time)  
 
 ## Links
 
-* [Proposal Draft](https://docs.google.com/document/d/10IpBTo1dnaQ9H4u9Uwek-fL-gP1om4Zte0ZSvPbPLnY/edit?usp=sharing)
+* [Submitted Proposal](https://github.com/xmudrii/gsoc-2018-meta-k8s/blob/master/proposal/proposal.pdf)
+* [Proposal Draft (Google Doc)](https://docs.google.com/document/d/10IpBTo1dnaQ9H4u9Uwek-fL-gP1om4Zte0ZSvPbPLnY/edit?usp=sharing)
 * [Project on GSoC website](https://summerofcode.withgoogle.com/projects/#6400208972283904)
 * [Google Document](https://docs.google.com/document/d/1LoqDnhb-1WV4Ja-8iS5n5Tm3NPVG50DndxsVbE17imE/edit?usp=sharing)
 * [Trello Board](https://trello.com/b/XeaS0l5E) 
