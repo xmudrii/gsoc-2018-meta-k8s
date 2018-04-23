@@ -1,21 +1,18 @@
 # Tracker for my GSoC project for CNCF and Kubernetes
 
-This repository is used to trace progress on my GSoC project for CNCF &amp; Kubernetes - Storage API for Aggregated API Servers.
+This repository is used to trace progress on my GSoC project for CNCF &amp; Kubernetes - Storage API for Aggregated API Servers.  
+
+To easier track the progress about the project, I've created public Trello board and a Google Document.  
+I'll provide daily updates about the progress in both the Google Document and Trello Board.
+
+* [Google Document](https://docs.google.com/document/d/1LoqDnhb-1WV4Ja-8iS5n5Tm3NPVG50DndxsVbE17imE/edit?usp=sharing)
+* [Trello Board](https://trello.com/b/XeaS0l5E)
 
 ## Abstract
 
 Kubernetes offers two ways to extend the core API, by using the CustomResourceDefinitons or by setting up an aggregated API server. This ensures users don’t need to modify the core API in order to add the features needed for their workflow, which later ensures the more stable and secure core API.
 
 One missing part is how to efficiently store data used by aggregated API servers. This project implements a Storage API, with a main goal to share the cluster’s main etcd server with the Aggregated API Servers, allowing it to use cluster’s main etcd just like it would use it’s own etcd server.
-
-## Useful Links
-
-To easier trace the progress about this project, I've created public Trello board and Google Document.
-
-* [Google Document](https://docs.google.com/document/d/1LoqDnhb-1WV4Ja-8iS5n5Tm3NPVG50DndxsVbE17imE/edit?usp=sharing)
-* [Trello Board](https://trello.com/b/XeaS0l5E)
-
-I'll provide daily updates about the progress in both the Google Document and Trello Board.
 
 ## General Information
 
