@@ -9,3 +9,7 @@ deads: You take feedback very well; incorporating the changes and applying the l
 ## Second Evaluation
 
 deads: Having the discipline to follow a process that starts with security in mind and building the prerequisite systems like CI first to prevent regressions makes it easy to engage and help in your repo. Impressive time management juggling this project, community engagement, and exams.
+
+## Third Evaluation
+
+deads: Great performance, impressive time management next to exams, great communication with us and the community (etcd issues, blogs). The demo went well and I think you could do even better in the future by watching good demoers and how they manage the space while waiting and how they lead up and show the meat of their presentation. Kelsey Hightower comes to mind as an example of someone who does a very good job.
