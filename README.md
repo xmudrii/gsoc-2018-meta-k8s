@@ -45,7 +45,7 @@ Mentors: [David Eads](https://github.com/deads2k), [Dr. Stefan Schimanski](https
 ## Talks
 
 * [Kubernetes Community Meeting (September 6th): EtcdProxyController—Solving the aggregated API server storage pain](https://youtu.be/xTEBQjnKLi4?t=5m15s) ([slides](https://docs.google.com/presentation/d/1KSqGj3AwpFDKdRLk678zSXkdTvmjzut6scZhSwLr0gw/edit?usp=sharing))
-* SIG-API-Machinery (August 15th): Deep Dive Into EtcdProxyController
+* SIG-API-Machinery Office Hours (August 15th): Deep Dive Into EtcdProxyController
 
 ## Pull Requests, Issues and Reviews made to the `etcdproxy-controller` repository
 
